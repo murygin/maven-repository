@@ -19,22 +19,22 @@
       <scope>test</scope>
     </dependency>
     <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.+</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
       <groupId>com.fluxchess</groupId>
       <artifactId>jcpi</artifactId>
-      <version>1.4.+</version>
+      <version>1.4.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.fluxchess</groupId>
       <artifactId>jcpi</artifactId>
-      <version>1.4.+</version>
+      <version>1.4.1</version>
       <classifier>tests</classifier>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>log4j</groupId>
-      <artifactId>log4j</artifactId>
-      <version>1.2.+</version>
       <scope>test</scope>
     </dependency>
     <dependency>
